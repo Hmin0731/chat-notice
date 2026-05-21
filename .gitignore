@@ -1,0 +1,20 @@
+# Dependencies (npm install로 다시 받음 — Git에 올리지 않음)
+node_modules/
+
+# Build output
+dist/
+frontend/dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
