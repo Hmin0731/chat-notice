@@ -18,3 +18,8 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Analysis scratch
+analysis/__pycache__/
+analysis/data/corpCode.zip
+analysis/data/sf_best.csv
